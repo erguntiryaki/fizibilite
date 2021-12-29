@@ -1,3 +1,10 @@
+# Data used in following analysis can be retrieved from GEO with accession number: GSE100501
+# Associated publication:
+# Peterson, V.M., et al., Multiplexed quantification of proteins and transcripts in single cells. Nat Biotechnol, 2017. 35(10): p. 936-939.
+
+# This analysis involves simultaneous mRNA and protein measurements from PBMC samples of 
+# donor 2 and donor 3 in aferomentioned public dataset.
+
 ################### SET UP SEURAT OBJECT ################################
 library(Seurat)
 
