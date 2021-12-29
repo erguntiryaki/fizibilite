@@ -1,2 +1,2 @@
-# fizibilite
-Bu Klasör, TÜBİTAK 2209-A Programına Sunulan Araştırma Önerisinde Belirtilen Fizibilite Çalışması Örneklerini İçermektedir.
+# Fizibilite
+Bu klasör, TÜBİTAK 2209-A programına sunulan araştırma önerisinde belirtilen fizibilite çalışması örneklerini içermektedir.
